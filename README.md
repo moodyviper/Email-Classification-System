@@ -25,17 +25,5 @@ discrete features (e.g., word counts for text classification). The
 multinomial distribution normally requires integer feature counts. However,
 in practice, fractional counts such as tf-idf may also work.
 
-### GUI
-### Inital Screen
-<img title="" src="/guiimages/mainscreen.png" alt="">
-<br>
 
-### Spam Screen
-
-<img title="" src="/guiimages/spamscreen.png" alt="">
-<br>
-
-### Ham Screen
-
-<img title="" src="/guiimages/hamscreen.png" alt="">
 
